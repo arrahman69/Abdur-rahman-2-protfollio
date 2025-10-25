@@ -36,8 +36,8 @@ function Home() {
         <Container>
           <Row>
             <Col md={7} sm={12} className="bannartext wow slideInLeft" data-wow-duration="2s" data-wow-delay="0.1s">
-              <p>WEB DESIGN <span>//</span> WEBFLOW DEVELOPMENT <span>//</span> SEO</p>
-              <h1>Mohamed Alsayed Portfolio .</h1>
+              <p>WEB DESIGN <span>//</span> WEB DEVELOPMENT <span>//</span> SEO</p>
+              <h1>Aʙᴅᴜʀ Rᴀʜᴍᴀɴ Portfolio .</h1>
               <h5>We build marketing websites that help you sell on autopilot.</h5>
               <HashLink to="/#contact"><button>Let's talk</button></HashLink>
             </Col>
@@ -122,7 +122,7 @@ function Home() {
         <div className="divRight wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s">
           <img src="images/623240674411e07510215b6f_image 2 (Traced).svg" alt="" />
           <div>
-            <h5>Webflow Development</h5>
+            <h5>Web Development</h5>
             <p>Where design turns into code.</p>
           </div>
         </div>
@@ -144,16 +144,16 @@ function Home() {
       {/* end fourth section  */}
       {/* start fifth section  */}
       <section className="homesec5" id="service">
-        <h2 className=" wow fadeIn" data-wow-duration="2s" data-wow-delay="0.1s">Why Webflow.</h2>
+        <h2 className=" wow fadeIn" data-wow-duration="2s" data-wow-delay="0.1s">Why Web Development.</h2>
         <img src="images/6179978654e4d77bdbc81721/623506fac432155edb494f48_Topology-2%20(1).svg" alt="" />
         <Container>
           <Row>
             <Col md={4} sm={12} className="divRight wow bounceInUp" data-wow-duration="2s" data-wow-delay="0.1s">
               <div>
                 <h5>REASON 1</h5>
-                <h3>Next-Level Storytelling</h3>
+                <h3>Next-Level Programming</h3>
                 <img src="images/62966934fc028e3715017571_undraw_mobile_development_re_wwsn 1.svg" alt="" />
-                <p>Unleash the best visuals and experiences that modern web design has to offer. Webflow turns your wildest of ideas into strategic customer-experiences.</p>
+                <p>Unleash the best visuals and experiences that modern web design has to offer. Web development turns your wildest of ideas into strategic customer-experiences.</p>
               </div>
             </Col>
             <Col md={4} sm={12}>
@@ -161,7 +161,7 @@ function Home() {
                 <h5>REASON 2</h5>
                 <h3>Unbelievable Performance</h3>
                 <img src="images/62966cbb57bfa16e79fe8406_undraw_data_re_80ws 1 (1).svg" alt="" />
-                <p>Hosted on an ultra-fast global CDN, Webflow goes full steam ahead with load speed, uptime, asset optimization, and SEO. All without ever needing to install a patch or upload a server configuration.</p>
+                <p>Hosted on an ultra-fast global CDN, Web development goes full steam ahead with load speed, uptime, asset optimization, and SEO. All without ever needing to install a patch or upload a server configuration.</p>
               </div>
             </Col>
             <Col md={4} sm={12}>
@@ -169,7 +169,7 @@ function Home() {
                 <h5>REASON 3</h5>
                 <h3>Developer-Free Tweaks</h3>
                 <img src="images/62966cd0f71f4f702ab6febd_undraw_asset_selection_re_k5fj 1.svg" alt="" />
-                <p>Webflow’s ‘Editor Mode’ allows any team member to update content as they please without wreaking havoc or paying people like us to fix it.</p>
+                <p>Web development’s ‘Editor Mode’ allows any team member to update content as they please without wreaking havoc or paying people like us to fix it.</p>
               </div>
             </Col>
           </Row>
@@ -183,9 +183,9 @@ function Home() {
           <Row className="align-items-center">
             <Col md={6} sm={12} className="wow slideInLeft" data-wow-duration="2s" data-wow-delay="0.1s">
               <div>
-                <p><span>Email:</span> MohanedAlsayes@gmail.com</p>
-                <p><span>Phone:</span> 01147832804</p>
-                <p><span>Address:</span> 24 Helwan </p>
+                <p><span>Email:</span> the.abdurrahman01@gmail.com</p>
+                <p><span>Phone:</span> +880 1333 487 333</p>
+                <p><span>Address:</span> Dhaka , Bangladesh </p>
               </div>
             </Col>
             <Col md={6} sm={12} className="wow bounceInRight" data-wow-duration="2s" data-wow-delay="0.3s">

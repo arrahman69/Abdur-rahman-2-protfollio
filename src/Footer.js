@@ -41,12 +41,12 @@ function Footer() {
                 data-wow-delay="0.5s"
               >
                 <Link
-                  to="https://www.facebook.com/profile.php?id=100072713571457"
+                  to="https://www.facebook.com/theabdurrahman"
                   target="_blank"
                 >
                   <FacebookIcon />
                 </Link>
-                <Link to="#" target="_blank">
+                <Link to="https://www.instagram.com/its.abdurrahman1/" target="_blank">
                   <InstagramIcon />
                 </Link>
                 <Link to="#" target="_blank">
@@ -60,8 +60,8 @@ function Footer() {
             data-wow-duration="2s"
             data-wow-delay="0.5s"
           >
-            <p>© 2022 Your Name</p>
-            <p>Email: info@Moalsayed.com</p>
+            <p>© 2025 Aʙᴅᴜʀ Rᴀʜᴍᴀɴ</p>
+            <p>Email: the.abdurrahman01@gmail.com</p>
           </div>
         </Container>
       </footer>
